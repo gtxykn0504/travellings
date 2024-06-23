@@ -58,7 +58,7 @@ body:
     validations:
       required: true
   - type: input
-    id: remark
+    id: postscript
     attributes:
       label: 备注
       description: |
